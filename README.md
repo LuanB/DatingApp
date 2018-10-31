@@ -1,3 +1,3 @@
-# DatingApp
+# SPA
 
-Code for learning
+Code for learning VS code
